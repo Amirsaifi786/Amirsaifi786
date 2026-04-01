@@ -1,135 +1,26 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Amir Saifi</h1>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:0d1117&height=200&section=header&text=Amir%20Saifi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=58&descSize=18&descColor=a9b1d6" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsaifi786&label=Profile%20views&color=0e75b6&style=flat" alt="amirsaifi786" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Node.js+%7C+Express;Building+Scalable+%26+Elegant+Web+Apps;Open+to+Freelance+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirsaifi786" alt="amirsaifi786" /></a> </p>
 
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/amir-saifi-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amir-saifi-the-decoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amir-saifi-439b491b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-saifi-439b491b8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/amir-saifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amir-saifi" height="30" width="40" /></a>
+<a href="https://fb.com/amirsaifi52.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amirsaifi52.me" height="30" width="40" /></a>
+<a href="https://instagram.com/amirsaifi52.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirsaifi52.me" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@amirsaifi2564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@amirsaifi2564" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/302004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="302004" height="30" width="40" /></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amirsaifi786&label=Profile+Views&color=6C63FF&style=flat-square)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Amirsaifi786?label=Followers&style=flat-square&color=6C63FF)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/Amirsaifi786?label=Stars&style=flat-square&color=6C63FF)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsaifi786&show_icons=true&locale=en&layout=compact" alt="amirsaifi786" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirsaifi786&show_icons=true&locale=en" alt="amirsaifi786" /></p>
 
-## 🧑‍💻 About Me
-
-```javascript
-const AmirSaifi = {
-  role:      "Full Stack Developer",
-  location:  "India 🇮🇳",
-  frontend:  ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-  backend:   ["Laravel", "Node.js", "Express.js", "PHP"],
-  database:  ["MySQL", "MongoDB", "PostgreSQL"],
-  tools:     ["Git", "Docker", "Postman", "VS Code"],
-  currently: "Building scalable web apps & learning system design 📐",
-  openTo:    ["Freelance Projects 💼", "Full-time Roles", "Collaborations 🤝"],
-  funFact:   "I write cleaner code than my room looks 😄",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔖 Project | 💻 Tech Stack | 🔗 Repo | 🟢 Status |
-|:---|:---|:---:|:---:|
-| 🖼️ **Pixel Shift Image Converter** | PHP · GD · Imagick | [View →](https://github.com/Amirsaifi786/Pixel-Shift-Image-Converter) | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| 🔐 **Laravel Role & Permission** | Laravel 10 · Spatie | [View →](https://github.com/Amirsaifi786/User_Role_Permission_And_Authorization_In_Laravel10) | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| 🏠 **RoomDekho Frontend** | React · JavaScript · Tailwind | [View →](https://github.com/Amirsaifi786/roomdekhofrontend) | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
-| 🏠 **RoomDekho Backend** | Node.js · Express · MongoDB | [View →](https://github.com/Amirsaifi786/roomdekhobackend) | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amirsaifi786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaifi786&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Amirsaifi786&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsaifi786&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" />
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Amirsaifi786&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12&no-bg=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amirsaifi786)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:0d1117&height=120&section=footer" />
-
-### 💡 *"Code is not just syntax — it's the art of solving real problems."*
-
-⭐ **If you like my work, consider starring my repos — it means a lot!** ⭐
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsaifi786&" alt="amirsaifi786" /></p>

@@ -1,46 +1,64 @@
 <h1 align="center">Hi 👋, I'm Amir Saifi</h1>
-<h3 align="center">A passionate Full Stack Developer from India :)</h3>
 
-### Skills 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+Laravel+%26+MERN;Building+RoomDekho+%F0%9F%8F%A0;Learning+System+Design+%26+Advanced+Node.js" alt="Typing SVG" />
+</p>
 
-### 👨🏻‍💻 About Me 
-- 🔭 I'm currently building **RoomDekho** - a full-stack real estate web app
-- 🌱 I'm currently learning **System Design & Advanced Node.js**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirsaifi786&label=Profile+views&color=38B2AC&style=flat" alt="Profile views" />
+  <a href="https://github.com/amirsaifi786?tab=followers"><img src="https://img.shields.io/github/followers/amirsaifi786?style=flat&logo=github&label=Followers" alt="Followers" /></a>
+</p>
+
+---
+
+## 👨🏻‍💻 About Me
+
+- 🔭 Currently building **[RoomDekho](https://github.com/amirsaifi786)** — a full-stack real estate / property rental platform (MERN)
+- 🌱 Learning **System Design** & **Advanced Node.js**
+- 💼 Experience: E-commerce, HRM, booking systems, invoice management, payment gateway integrations (Razorpay, UPI, Airpay)
 - 💬 Ask me about **React, Laravel, Node.js, MongoDB, PHP, JavaScript**
-- 📫 How to reach me **amirsaifi52.me@gmail.com**
-- 🎥 YouTube Channel: **[@amirsaifi2564](https://www.youtube.com/c/@amirsaifi2564)**
 - ⚡ Fun fact: **I debug faster than I make chai ☕**
 
-<div align="center">
-  <a href="https://github.com/amirsaifi786">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirsaifi786&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsaifi786&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-##
- 
-<div> 
-  <a href="https://instagram.com/amirsaifi52.me" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:amirsaifi52.me@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amir-saifi-439b491b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/c/@amirsaifi2564" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://fb.com/amirsaifi52.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Amirsaifi786/Amirsaifi786/blob/snake/snake.svg)
- 
-</div>
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,laravel,php,codeigniter,mysql,mongodb,tailwind,bootstrap,git,docker&perline=8" alt="Tech stack" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏠 **RoomDekho** | Property rental platform (in progress) | MongoDB, Express, React, Node.js |
+| 🛒 **E-commerce Platform** | Full-featured store with API + admin | Laravel, React, MySQL |
+| 💳 **Payment Integrations** | Razorpay / UPI / Airpay checkout flows | PHP, Laravel |
+| 💇 **Salon Booking** | Appointment & service booking system | PHP, MySQL |
+| 🧾 **Invoice & HRM Systems** | Business management dashboards | Laravel, MySQL |
+
+> 📌 Pin your best 4–6 repos on your profile and replace the table above with direct repo links.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amirsaifi786&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsaifi786&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amirsaifi786&theme=dracula&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:amirsaifi52.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/amir-saifi-439b491b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/c/@amirsaifi2564"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/amirsaifi52.me"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://fb.com/amirsaifi52.me"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://amirsaifi786.github.io"><img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amirsaifi786/Amirsaifi786/snake/snake.svg" alt="Snake animation" />
+</p>

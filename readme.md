@@ -27,10 +27,6 @@
 
 ## 🚀 Featured Projects
 
-### 🔨 In Progress
-| Project | Description | Stack |
-|---|---|---|
-| 🏠 **RoomDekho** | Property rental platform | MongoDB, Express, React, Node.js |
 
 ### 🌐 Live Client Work
 | Project | Description | Link |

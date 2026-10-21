@@ -27,15 +27,31 @@
 
 ## 🚀 Featured Projects
 
+### 🔨 In Progress
 | Project | Description | Stack |
 |---|---|---|
-| 🏠 **RoomDekho** | Property rental platform (in progress) | MongoDB, Express, React, Node.js |
+| 🏠 **RoomDekho** | Property rental platform | MongoDB, Express, React, Node.js |
+
+### 🌐 Live Client Work
+| Project | Description | Link |
+|---|---|---|
+| 🏛️ **Bhardwaj Architects** | Portfolio website for an architecture firm | [bhardwajarchitects.in](https://bhardwajarchitects.in) |
+| 💼 **Consulenza Services** | Corporate website for a consulting company | [consulenza.co.in](https://consulenza.co.in) |
+| 🪑 **Gunnu Furniture** | Product showcase for a wooden furniture brand | [gunnuwooden.com](https://gunnuwooden.com) |
+| 🏢 **Copluck Enterprises** | Corporate website for a private limited company | [copluck.in](https://copluck.in) |
+| ⚙️ **GK Industries** | Machinery manufacturer website | [gkmachinery.co.in](https://gkmachinery.co.in) |
+| 🛒 **ICCS Mart** | Online store / marketplace | [iccsmartonline.in](https://iccsmartonline.in) |
+| ☁️ **Cloudchink Technologies** | IT company website | [cloudchink.com](https://cloudchink.com) |
+| 💳 **Tretton Epice** | Fintech infrastructure company website | [tretton.in](http://tretton.in) |
+| 🌌 **Canopus India** | Corporate website | [canopusindia.com](http://canopusindia.com) |
+
+### 🧩 Systems I've Built
+| Project | Description | Stack |
+|---|---|---|
 | 🛒 **E-commerce Platform** | Full-featured store with API + admin | Laravel, React, MySQL |
 | 💳 **Payment Integrations** | Razorpay / UPI / Airpay checkout flows | PHP, Laravel |
 | 💇 **Salon Booking** | Appointment & service booking system | PHP, MySQL |
 | 🧾 **Invoice & HRM Systems** | Business management dashboards | Laravel, MySQL |
-
-> 📌 Pin your best 4–6 repos on your profile and replace the table above with direct repo links.
 
 ## 📊 GitHub Stats
 

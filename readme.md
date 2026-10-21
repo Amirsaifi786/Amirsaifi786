@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir Saifi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+Laravel+%26+MERN;Building+RoomDekho+%F0%9F%8F%A0;Learning+System+Design+%26+Advanced+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Laravel+%26+MERN;Building+Bhardwaj+Architects+%F0%9F%8F%97%EF%B8%8F;Developing+Modern+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,11 +63,9 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:amirsaifi52.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/amir-saifi-439b491b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/c/@amirsaifi2564"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:amirsaifi7671@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/amir-saifi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/amirsaifi52.me"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://fb.com/amirsaifi52.me"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://amirsaifi786.github.io"><img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
